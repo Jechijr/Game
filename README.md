@@ -1,2 +1,2 @@
 # Game
-Rol a ball game developed with Unity
+Roll a ball game developed with Unity
